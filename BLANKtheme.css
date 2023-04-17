@@ -20,8 +20,8 @@
 --backgroundPosition: center;
 --backgroundSize: cover;
 --backgroundRepeat: repeat;
---backgroundBlur: 0px;
---backgroundOpacity: 1;
+--backgroundBlur: 10px;
+--backgroundOpacity: 0.5;
 --rs-small-spacing: 0px;
 --rs-medium-spacing: 0px;
 --rs-large-spacing: 0px;
